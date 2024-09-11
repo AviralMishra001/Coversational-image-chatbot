@@ -4,3 +4,6 @@ langchain
 OpenAI
 langchain_community
 ollama
+torch
+torchvision
+torchaudio

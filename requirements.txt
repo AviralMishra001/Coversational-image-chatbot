@@ -1,0 +1,6 @@
+Transformers
+streamlit
+langchain
+OpenAI
+langchain_community
+ollama
